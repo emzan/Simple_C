@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F6E27AF1203DC8C700C0CAFD /* typeCasting.c in Sources */ = {isa = PBXBuildFile; fileRef = F6E27AF0203DC8C700C0CAFD /* typeCasting.c */; };
+		F6E27AF1203DC8C700C0CAFD /* 00_08_typeCasting.c in Sources */ = {isa = PBXBuildFile; fileRef = F6E27AF0203DC8C700C0CAFD /* 00_08_typeCasting.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,15 +24,15 @@
 
 /* Begin PBXFileReference section */
 		F6C14DD3203164EA00A6C6E4 /* arrayFunc */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = arrayFunc; sourceTree = BUILT_PRODUCTS_DIR; };
-		F6C14DD6203164EA00A6C6E4 /* Helloworld.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Helloworld.c; sourceTree = "<group>"; };
-		F6E27ADE203DAC2500C0CAFD /* types.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = types.c; sourceTree = "<group>"; };
-		F6E27AE4203DB42A00C0CAFD /* types_0.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = types_0.c; sourceTree = "<group>"; };
-		F6E27AE6203DBA7400C0CAFD /* variables.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = variables.c; sourceTree = "<group>"; };
-		F6E27AE8203DBEF900C0CAFD /* variables_0.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = variables_0.c; sourceTree = "<group>"; };
-		F6E27AEA203DC02600C0CAFD /* celsius.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = celsius.c; sourceTree = "<group>"; };
-		F6E27AEC203DC29F00C0CAFD /* multCelsius.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = multCelsius.c; sourceTree = "<group>"; };
-		F6E27AEE203DC4BE00C0CAFD /* wrong_conversion.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = wrong_conversion.c; sourceTree = "<group>"; };
-		F6E27AF0203DC8C700C0CAFD /* typeCasting.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = typeCasting.c; sourceTree = "<group>"; };
+		F6C14DD6203164EA00A6C6E4 /* 00_00_Helloworld.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 00_00_Helloworld.c; sourceTree = "<group>"; };
+		F6E27ADE203DAC2500C0CAFD /* 00_01_types.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 00_01_types.c; sourceTree = "<group>"; };
+		F6E27AE4203DB42A00C0CAFD /* 00_02_types_0.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = 00_02_types_0.c; sourceTree = "<group>"; };
+		F6E27AE6203DBA7400C0CAFD /* 00_03_variables.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 00_03_variables.c; sourceTree = "<group>"; };
+		F6E27AE8203DBEF900C0CAFD /* 00_04_variables_0.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 00_04_variables_0.c; sourceTree = "<group>"; };
+		F6E27AEA203DC02600C0CAFD /* 00_05_celsius.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 00_05_celsius.c; sourceTree = "<group>"; };
+		F6E27AEC203DC29F00C0CAFD /* 00_06_multCelsius.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 00_06_multCelsius.c; sourceTree = "<group>"; };
+		F6E27AEE203DC4BE00C0CAFD /* 00_07_wrong_conversion.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 00_07_wrong_conversion.c; sourceTree = "<group>"; };
+		F6E27AF0203DC8C700C0CAFD /* 00_08_typeCasting.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 00_08_typeCasting.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,15 +65,15 @@
 		F6C14DD5203164EA00A6C6E4 /* Simple_C */ = {
 			isa = PBXGroup;
 			children = (
-				F6E27ADE203DAC2500C0CAFD /* types.c */,
-				F6E27AE4203DB42A00C0CAFD /* types_0.c */,
-				F6C14DD6203164EA00A6C6E4 /* Helloworld.c */,
-				F6E27AE6203DBA7400C0CAFD /* variables.c */,
-				F6E27AE8203DBEF900C0CAFD /* variables_0.c */,
-				F6E27AEA203DC02600C0CAFD /* celsius.c */,
-				F6E27AEC203DC29F00C0CAFD /* multCelsius.c */,
-				F6E27AEE203DC4BE00C0CAFD /* wrong_conversion.c */,
-				F6E27AF0203DC8C700C0CAFD /* typeCasting.c */,
+				F6E27ADE203DAC2500C0CAFD /* 00_01_types.c */,
+				F6E27AE4203DB42A00C0CAFD /* 00_02_types_0.c */,
+				F6C14DD6203164EA00A6C6E4 /* 00_00_Helloworld.c */,
+				F6E27AE6203DBA7400C0CAFD /* 00_03_variables.c */,
+				F6E27AE8203DBEF900C0CAFD /* 00_04_variables_0.c */,
+				F6E27AEA203DC02600C0CAFD /* 00_05_celsius.c */,
+				F6E27AEC203DC29F00C0CAFD /* 00_06_multCelsius.c */,
+				F6E27AEE203DC4BE00C0CAFD /* 00_07_wrong_conversion.c */,
+				F6E27AF0203DC8C700C0CAFD /* 00_08_typeCasting.c */,
 			);
 			path = Simple_C;
 			sourceTree = "<group>";
@@ -135,7 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F6E27AF1203DC8C700C0CAFD /* typeCasting.c in Sources */,
+				F6E27AF1203DC8C700C0CAFD /* 00_08_typeCasting.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
