@@ -9,7 +9,7 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-    printf("%c\n",97);
+    printf("%c %c %c\n",97,98,99);
     //return 0;
 }
 
