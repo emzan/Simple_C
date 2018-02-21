@@ -13,7 +13,7 @@
 
 int main(int argc, char **argv) {
     printf("char:\n");
-   // printf(" unsigned min,max: %d,%d (0,UCHAR_MAX)\n",SCHAR_MIN,SCHAR_MAX);
+    printf("%d\n",567.349);
 }
 
 //good luck!
