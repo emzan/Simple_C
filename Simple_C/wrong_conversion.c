@@ -12,7 +12,7 @@ int main(int argc, char **argv)
 {
     double t_c1 = 5, t_c2 = 12, t_c3 = 22.4;
     double cfac, t_f1, t_f2, t_f3;
-    cfac = 9 / 5; //since is not 9.0 and 5.0, the conversion calculation is wrong
+    cfac = 9 / 5; //since is a "double" variable, this is not written as 9.0 and 5.0, the conversion calculation is wrong!!!
     
     t_f1 = t_c1 * cfac + 32;
     t_f2 = t_c2 * cfac + 32;
