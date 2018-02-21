@@ -3,7 +3,7 @@
 //  arrayFunc
 //
 //  Created by George Martinson on 21/02/2018.
-//  Copyright © 2018 Emilio Zanetti. All rights reserved.
+//  Copyright © 2018 All rights reserved.
 //
 
 #include <stdio.h>
