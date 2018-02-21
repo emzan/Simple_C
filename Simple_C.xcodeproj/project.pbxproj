@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F6E27AE9203DBEF900C0CAFD /* variables_0.c in Sources */ = {isa = PBXBuildFile; fileRef = F6E27AE8203DBEF900C0CAFD /* variables_0.c */; };
+		F6E27AEB203DC02600C0CAFD /* celcius.c in Sources */ = {isa = PBXBuildFile; fileRef = F6E27AEA203DC02600C0CAFD /* celcius.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +29,7 @@
 		F6E27AE4203DB42A00C0CAFD /* types_0.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = types_0.c; sourceTree = "<group>"; };
 		F6E27AE6203DBA7400C0CAFD /* variables.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = variables.c; sourceTree = "<group>"; };
 		F6E27AE8203DBEF900C0CAFD /* variables_0.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = variables_0.c; sourceTree = "<group>"; };
+		F6E27AEA203DC02600C0CAFD /* celcius.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = celcius.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +67,7 @@
 				F6C14DD6203164EA00A6C6E4 /* Helloworld.c */,
 				F6E27AE6203DBA7400C0CAFD /* variables.c */,
 				F6E27AE8203DBEF900C0CAFD /* variables_0.c */,
+				F6E27AEA203DC02600C0CAFD /* celcius.c */,
 			);
 			path = Simple_C;
 			sourceTree = "<group>";
@@ -127,7 +129,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F6E27AE9203DBEF900C0CAFD /* variables_0.c in Sources */,
+				F6E27AEB203DC02600C0CAFD /* celcius.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
