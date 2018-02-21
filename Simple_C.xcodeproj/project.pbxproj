@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F6E27AF1203DC8C700C0CAFD /* 00_08_typeCasting.c in Sources */ = {isa = PBXBuildFile; fileRef = F6E27AF0203DC8C700C0CAFD /* 00_08_typeCasting.c */; };
+		F6E27AF3203DCA9F00C0CAFD /* 00_09_doubleAgain.c in Sources */ = {isa = PBXBuildFile; fileRef = F6E27AF2203DCA9F00C0CAFD /* 00_09_doubleAgain.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +33,7 @@
 		F6E27AEC203DC29F00C0CAFD /* 00_06_multCelsius.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 00_06_multCelsius.c; sourceTree = "<group>"; };
 		F6E27AEE203DC4BE00C0CAFD /* 00_07_wrong_conversion.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 00_07_wrong_conversion.c; sourceTree = "<group>"; };
 		F6E27AF0203DC8C700C0CAFD /* 00_08_typeCasting.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 00_08_typeCasting.c; sourceTree = "<group>"; };
+		F6E27AF2203DCA9F00C0CAFD /* 00_09_doubleAgain.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = 00_09_doubleAgain.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 				F6E27AEC203DC29F00C0CAFD /* 00_06_multCelsius.c */,
 				F6E27AEE203DC4BE00C0CAFD /* 00_07_wrong_conversion.c */,
 				F6E27AF0203DC8C700C0CAFD /* 00_08_typeCasting.c */,
+				F6E27AF2203DCA9F00C0CAFD /* 00_09_doubleAgain.c */,
 			);
 			path = Simple_C;
 			sourceTree = "<group>";
@@ -135,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F6E27AF1203DC8C700C0CAFD /* 00_08_typeCasting.c in Sources */,
+				F6E27AF3203DCA9F00C0CAFD /* 00_09_doubleAgain.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
