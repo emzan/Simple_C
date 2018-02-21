@@ -8,8 +8,9 @@
 
 #include <stdio.h>
 
-int main()
+int main(int argc, char **argv)
 {
-    printf("Ciao\n");
+    double x = 3;
+    printf("%f\n",x);
     return 0;
 }
